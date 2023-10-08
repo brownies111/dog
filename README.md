@@ -7,4 +7,6 @@ WALANG TENGAAAAA</p>
 <p>2 thang blang</p>
 <p>3t</p>
 <p>4blang blabng</p>
+<p>5 <img src="IMG_4574.png" width="100" height="100">
+</p> lol nerd lol
 
