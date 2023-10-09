@@ -14,5 +14,3 @@ WALANG TENGAAAAA</p>
   do you agree? <br>
    <button>yes</button> <button>nah stfu</button>
 </form>
-<img src="https://cdn.discordapp.com/attachments/882761066495496213/1160761119430938665/IMG_4509.JPG?ex=6535d608&is=65236108&hm=44ace594c3b134a02b4cad9355e89a9389e18db438abffae4a7f5c38b50daa92&"
-width="50" height "100"
